@@ -7,7 +7,7 @@ import random
 with open('translator.json') as t_file:
     translator = json.load(t_file)
 
-    originalMessage = input("Input: ")
+    originalMessage = input()
     newMessage = ''
     
     for letter in originalMessage:
