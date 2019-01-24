@@ -1,0 +1,200 @@
+{
+    "a": [
+        ":a:",
+        ":a_scrabble:",
+        ":amazon:",
+        ":amplitude:",
+        ":anarchy:",
+        ":angels:",
+        ":appdynamics:",
+        ":apollo:",
+        ":bama:",
+        ":uofa:",
+        ":afc:",
+        ":alabama:",
+        ":arch:"
+    ],
+    "b": [
+        ":b:",
+        ":b_scrabble:",
+        ":bengals:",
+        ":bitcoin:"
+    ],
+    "c": [
+        ":c_scrabble:",
+        ":bears:",
+        ":coinbase:"
+    ],
+    "d": [
+        ":d_scrabble:",
+        ":dashcoin:",
+        ":dblock:",
+        ":dogecoin:",
+        ":duo:",
+        ":mightyducks:"
+    ],
+    "e": [
+        ":e_scrabble:",
+        ":nodejs:",
+        ":ie:",
+        ":ecorp:",
+        ":e:"
+    ],
+    "f": [
+        ":f_scrabble:",
+        ":facebook:",
+        ":project_fi:"
+    ],
+    "g": [
+        ":g_scrabble:",
+        ":google:",
+        ":gusto:",
+        ":packers:",
+        ":letterg:"
+    ],
+    "h": [
+        ":h_scrabble:",
+        ":astros:"
+    ],
+    "i": [
+        ":i_scrabble:",
+        ":i:",
+        ":care_info:"
+    ],
+    "j": [
+        ":j_scrabble:"
+    ],
+    "k": [
+        ":k_scrabble:",
+        ":kapil:",
+        ":kotlin:"
+    ],
+    "l": [
+        ":l_scrabble:",
+        ":muscle:",
+        ":muscle::skin-tone-2:",
+        ":muscle::skin-tone-3:",
+        ":muscle::skin-tone-4:",
+        ":muscle::skin-tone-5:",
+        ":muscle::skin-tone-6:",
+        ":loss:"
+    ],
+    "m": [
+        ":m_scrabble:",
+        ":moviepass:",
+        ":maccas:",
+        ":mi2:",
+        ":mi:",
+        ":mifs:",
+        ":mif:",
+        ":mural:",
+        ":mtv:"
+    ],
+    "n": [
+        ":n_scrabble:",
+        ":huskers:",
+        ":netscape:",
+        ":nfc:",
+        ":netflix:",
+        ":northeastern:"
+    ],
+    "o": [
+        ":o:",
+        ":o2:",
+        ":o_scrabble:",
+        ":intuit:",
+        ":aperture:",
+        ":omegalul:",
+        ":one_ring:",
+        ":oregon-1761:",
+        ":overops:"
+    ],
+    "p": [
+        ":p_scrabble:",
+        ":principle:",
+        ":profile3:"
+    ],
+    "q": [
+        ":q_scrabble:",
+        ":q:",
+        ":qualtrics:"
+    ],
+    "r": [
+        ":r_scrabble:",
+        ":r:",
+        ":r-studio:",
+        ":rust_lang:",
+        ":rutgers3:",
+        ":nar:",
+        ":rust:"
+    ],
+    "s": [
+        ":s_scrabble:",
+        ":heavy_dollar_sign:",
+        ":msu2:",
+        ":ncstate:",
+        ":s-is-for-snake:",
+        ":sarah-1498:",
+        ":skype:",
+        ":sublime:"
+    ],
+    "t": [
+        ":t_scrabble:",
+        ":tsheets:",
+        ":intuit-678:",
+        ":t_bubble:",
+        ":t_mobile:",
+        ":t_zucchini:",
+        ":teamwork-7538:",
+        ":titan:",
+        ":tesla-motors:"
+    ],
+    "u": [
+        ":u_scrabble:",
+        ":magnet:",
+        ":usertestingdotcom:"
+    ],
+    "v": [
+        ":v_scrabble:",
+        ":heavy_check_mark:",
+        ":white_check_mark:",
+        ":aries:",
+        ":balaji:",
+        ":vj:",
+        ":vim:",
+        ":venmo:",
+        ":vanguard:"
+    ],
+    "w": [
+        ":w_scrabble:",
+        ":nats:",
+        ":wwe:",
+        ":webroot:",
+        ":weave:",
+        ":uw:"
+    ],
+    "x": [
+        ":x_scrabble:",
+        ":xtest:"
+    ],
+    "y": [
+        ":y_scrabble:",
+        ":byu:"
+    ],
+    "z": [
+        ":z_scrabble:",
+        ":dbz:"
+    ],
+    "!": [
+        ":intuit_bebold:",
+        ":quest:"
+    ],
+    "?": [
+        ":mspaintquestion:",
+        ":quest_reward:",
+        ":question_block:"
+    ],
+    " ": [
+        ":blank:"
+    ]
+}
