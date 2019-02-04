@@ -107,7 +107,9 @@
         ":omegalul:",
         ":one_ring:",
         ":oregon-1761:",
-        ":overops:"
+        ":overops:",
+        ":donut:",
+        ":doughnut:"
     ],
     "p": [
         ":p_scrabble:",
@@ -196,5 +198,8 @@
     ],
     " ": [
         ":blank:"
+    ],
+    "&": [
+        ":ampersand:"
     ]
 }
