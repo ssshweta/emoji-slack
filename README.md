@@ -6,7 +6,7 @@ Two outputs occur with every input.
 1. **Emoji String** returns an aliasing with every single letter with a slack emoji.
 2. **Emoji-word/phrase Replacements** replace every _phrase_ or individual word with its equivalent emoji, if specified.
 
-Example Usage:
+### Example Usage:
 ```bash
 > emoji-slack$ python3 espell.py
 Enter message: I guess they don't have an intuit branch in alabama because they aren't really into it.
@@ -18,3 +18,10 @@ Emoji-word Replacement Strings:
 i guess they don't have an :intuit: branch in :alabama: because they aren't really :intuit:.
 > emoji-slack$
 ```
+
+### How it looks like:
+Emoji String:
+![Emoji String](examplestring.jpeg)
+
+Emoji-word Replacement Strings:
+![Emoji Replacement](examplereplacement.jpeg)
